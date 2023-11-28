@@ -16,7 +16,7 @@ I recently developed a cool Reviews App using HTML, CSS, and JavaScript. It's a 
 - 🔄 Click the brackets to navigate through reviews.
 - 🎉 Surprise Me button for a random review experience.
 
-Feel free to try it out [here](link-to-live-app)!
+Feel free to try it out [here]( https://codster15.github.io/Review--project/)!
 
 ## Skills
 
