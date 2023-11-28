@@ -33,7 +33,7 @@ I'm well-versed in a variety of technologies:
 
 - 📧 Email: deepaksingh.desire@gmail.com
 - 💼 LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/codster-dev-9638b1205/)
-- GitHub Follow -[Github Follow]https://github.com/codster15
+- GitHub Follow -[Github Follow](https://github.com/codster15)
 
 Feel free to explore my repositories and reach out! Let's connect and code something amazing together. 😊
 #WebDeveloper #FullStack #JavaScript #ReviewsApp #OpenSource #TechEnthusiast
