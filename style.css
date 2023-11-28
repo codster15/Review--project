@@ -1,0 +1,126 @@
+
+body{
+    background-color: #ebf1fa;
+}
+
+img{
+    border: 1px solid orangered;
+    border-radius: 50%;
+    background-color: #ccc;
+    margin-top: 25px;
+}
+
+.mainDiv{
+
+    width: 600px;
+    margin: 8% auto;
+    text-align: center;
+}
+.whitebox{
+   
+    margin-top: 50px;
+    background-color: white;
+    height: 420px;
+    border-radius: 10px;
+    box-shadow:-1px 5px 19px -8px #8f8e8e;
+}
+h1{
+    letter-spacing: 3px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Karla', sans-serif;
+    margin-bottom: 5px ;
+    color: #132043;
+}
+.mainDiv h1 .Rev{
+
+    border-bottom:5px solid rgb(81, 139, 247);
+}
+.para{
+    text-align: center;
+    margin: 15px 30px;
+  
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8f8e8e;
+}
+.bracket{
+    letter-spacing: 15px;
+}
+
+.bracket1{
+    
+    font-size: 27px;
+    font-weight: bolder;
+    color:#87C4FF;
+    cursor: pointer;
+    font-family: 'Karla', sans-serif;
+
+}
+.bracket2{
+   
+    font-size: 27px;
+    font-weight: bolder;
+    color:#87C4FF;
+    cursor: pointer;
+    font-family: 'Karla', sans-serif;
+}
+
+.name {
+    color: black;
+    letter-spacing: 4px;
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+    font-weight: bolder;
+    
+
+}
+
+.post{
+    
+    color:rgb(129, 173, 255);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    
+    
+
+}
+
+.namepost{
+    margin-top: 15px;
+   
+}
+
+.btn{
+    border: 2px solid  #87C4FF;
+    padding: 5px 10px;
+    background-color:#f4f8fd ;
+    color:  #87C4FF;
+    transition: background-color 0.3s ease;
+    font-family: 'Karla', sans-serif;
+    border-radius: 10px;
+
+
+
+}
+.bracket1:hover{
+ color: #1187fd;
+}
+
+.bracket2:hover{
+    color: #1187fd;
+}
+
+.btn:hover{
+    background-color: #87C4FF;
+    color: black;
+
+}
+h2{
+    float: right;
+    font-family: 'Pacifico', cursive;
+}
+.Deepak{
+    color: orangered;
+}
